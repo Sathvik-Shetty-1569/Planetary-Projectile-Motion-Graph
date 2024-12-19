@@ -47,6 +47,8 @@ A graphical simulation of projectile motion considering different planetary grav
       Initial Velocity: 20 m/s
       Mass: 5 kg
       Planet: Earth
-2.Output : A graph showing the projectile's path based on Earth's gravity 
+2. Output : A graph showing the projectile's path based on Earth's gravity.
 
-  ![Graph Example](Screenshot 2024-12-19 125243.png)
+## Screenshot 📸
+
+![Graph Example](Screenshot 2024-12-19 125243.png)
