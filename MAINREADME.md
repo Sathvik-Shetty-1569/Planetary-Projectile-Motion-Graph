@@ -43,15 +43,16 @@ A graphical simulation of projectile motion considering different planetary grav
 ## Example 📝
 1. Input 
    ```bash
-      Launch Angle: 45 degrees
-      Initial Velocity: 20 m/s
-      Mass: 5 kg
-      Planet: Earth
+      Launch Angle:50 degrees
+      Initial Velocity: 90 m/s
+      Mass: 6 kg
+      Planet: All Planets
+   
 2. Output : A graph showing the projectile's path based on Earth's gravity.
 
 ## Screenshot 📸
 
-![Graph Example](https://github.com/Sathvik-Shetty-1569/Planetary-Projectile-Motion-Graph/blob/da4825ee56f70c5e1e9c10266cb8ddcdc0c6e603/Screenshot%202024-12-19%20125243.png)
+![Graph Example](https://github.com/Sathvik-Shetty-1569/Planetary-Projectile-Motion-Graph/blob/40b624807fb78249935e85c21e581370fbf7f5d2/Screenshot%202024-12-19%20132209.png)
 
 
 ## License 📜
