@@ -49,4 +49,4 @@ A graphical simulation of projectile motion considering different planetary grav
       Planet: Earth
 2.Output : A graph showing the projectile's path based on Earth's gravity 
 
-  ![Graph Example]("C:\Users\SATHVIK\OneDrive\Pictures\Screenshots 1\Screenshot 2024-12-19 125243.png")
+  ![Graph Example](Screenshot 2024-12-19 125243.png)
