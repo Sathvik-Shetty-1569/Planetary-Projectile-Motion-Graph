@@ -52,3 +52,10 @@ A graphical simulation of projectile motion considering different planetary grav
 ## Screenshot 📸
 
 ![Graph Example](https://github.com/Sathvik-Shetty-1569/Planetary-Projectile-Motion-Graph/blob/da4825ee56f70c5e1e9c10266cb8ddcdc0c6e603/Screenshot%202024-12-19%20125243.png)
+
+
+## License 📜
+This project is licensed under the MIT License.
+
+## Contributing 🤝
+Feel free to fork this project, open issues, and submit pull requests. Contributions are welcome!
