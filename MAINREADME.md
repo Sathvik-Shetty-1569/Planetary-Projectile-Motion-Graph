@@ -51,4 +51,4 @@ A graphical simulation of projectile motion considering different planetary grav
 
 ## Screenshot 📸
 
-![Graph Example](Screenshot 2024-12-19 125243.png)
+![Graph Example](https://github.com/Sathvik-Shetty-1569/Planetary-Projectile-Motion-Graph/blob/da4825ee56f70c5e1e9c10266cb8ddcdc0c6e603/Screenshot%202024-12-19%20125243.png)
